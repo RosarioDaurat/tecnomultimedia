@@ -1,1 +1,1 @@
-Hola, la historia que voy a utilizar para el trabajo es una que invente. Empieza con un cohete que viaja hacia el espacio y se encuentra con dos planetas, en cada uno transcurre una historia diferente que luego se bifurcarán. El principal protagonista en la historia sera el usuario.
+Hola, la historia que voy a utilizar para el trabajo es una que invente. Empieza con un cohete que viaja hacia el espacio y se encuentra con dos planetas, en cada uno transcurren historias diferentes que luego se bifurcarán. El principal protagonista en la historia sera el usuario.
